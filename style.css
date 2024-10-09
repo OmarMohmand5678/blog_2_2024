@@ -1,0 +1,16 @@
+img {
+    border-radius: 53%;
+    align-self: left;
+    width: 350px;
+    height: 350px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+}
+
+time {
+    font-family:'Courier New', Courier, monospace;
+    color: cornflowerblue;
+}
